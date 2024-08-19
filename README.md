@@ -1,8 +1,8 @@
-###  DATE: 
+###  DATE:19.08.2024
 
-###  NAME: 
-###  ROLL NO :
-###  DEPARTMENT: 
+###  NAME: Hariharan A
+###  ROLL NO :212223110013
+###  DEPARTMENT: CSE-IoT
 
 
 
@@ -86,7 +86,15 @@ The main features of LPC2148 include the following.
 
 
 ## STM 32 CUBE PROGRAM :
-
+```
+ while (1)
+  {
+	  HAL_GPIO_WritePin(GPIOA, GPIO_PIN_0, GPIO_PIN_RESET);
+	  HAL_Delay(1000);
+	  HAL_GPIO_WritePin(GPIOA, GPIO_PIN_0, GPIO_PIN_SET);
+	  HAL_Delay(1000);
+  }
+```
 
 
 
@@ -94,7 +102,8 @@ The main features of LPC2148 include the following.
 ## OUTPUT  :
  
  
- 
+ ![image](https://github.com/user-attachments/assets/3475010e-0da4-4f08-91f2-5defe9f48b3f)
+
  
 ## Result :
 Interfacing a digital output with ARM microcontroller based IOT development is executed and the results are verified.
