@@ -1,10 +1,8 @@
-###  DATE: 
+###  DATE:19.08.2024
 
-###  NAME: 
-###  ROLL NO :
-###  DEPARTMENT: 
-
-
+###  NAME: Hariharan A
+###  ROLL NO :212223110013
+###  DEPARTMENT: CSE-IoT
 
 # EXPERIMENT-01-INTERFACING-A-DIGITAL-OUTPUT-TO-IOT-DEVELOPMENT-BOARD
 
@@ -99,7 +97,8 @@ The main features of LPC2148 include the following.
 
 
 ## OUTPUT  :
- 
+ ![image](https://github.com/user-attachments/assets/ff17cb53-02f1-4013-a211-31a3a6ece190)
+
  
  
  
